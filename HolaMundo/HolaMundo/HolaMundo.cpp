@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Hola mundo";
+    std::cout << "Hola bb";
 }
 
 // Ejecutar programa: Ctrl + F5 o menú Depurar > Iniciar sin depurar
